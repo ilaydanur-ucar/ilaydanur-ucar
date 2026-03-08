@@ -1,11 +1,11 @@
-# Hi, I'm Ilayda 👋
+                                                                  # Hi, I'm Ilayda 👋
 
 I'm a **Software Engineer** focused on **Data & AI** and **Machine Learning**.  
 I enjoy building intelligent systems and turning data into meaningful solutions.
 
 ---
 
-##  Education
+## 🎓 Education
 
 **Fırat University** — Software Engineering, 3rd Year
 
@@ -37,8 +37,26 @@ I'm passionate about **Data Analysis** and **Machine Learning**, and I'm constan
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ilaydanur-ucar&theme=darkhub&no-frame=true&row=1)
+
+## 🔥 Streak Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilaydanur-ucar&theme=dark&hide_border=true)
+
+---
+
+👀 ![Visitor Count](https://komarev.com/ghpvc/?username=ilaydanur-ucar&color=blue&style=flat)
+
+---
+
+*"Data tells stories. I just listen carefully."* 📊
 
 
 
