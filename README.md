@@ -1,5 +1,4 @@
 # Hi, I'm Ilayda Nur 👋
-
 I'm a **Software Engineer** focused on **Data & AI** and **Machine Learning**.  
 I enjoy building intelligent systems and turning data into meaningful solutions.
 
@@ -47,13 +46,7 @@ I'm passionate about **Data Analysis** and **Machine Learning**, and I'm constan
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilaydanur-ucar&theme=dark&hide_border=true)
 
----
 
-👀 ![Visitor Count](https://komarev.com/ghpvc/?username=ilaydanur-ucar&color=blue&style=flat)
-
----
-
-*"Data tells stories. I just listen carefully."* 📊
 
 
 
