@@ -1,4 +1,4 @@
-                                                                  # Hi, I'm Ilayda 👋
+                                                                  Hi, I'm Ilayda 👋
 
 I'm a **Software Engineer** focused on **Data & AI** and **Machine Learning**.  
 I enjoy building intelligent systems and turning data into meaningful solutions.
@@ -42,9 +42,6 @@ I'm passionate about **Data Analysis** and **Machine Learning**, and I'm constan
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ilaydanur-ucar&theme=darkhub&no-frame=true&row=1)
 
 ## 🔥 Streak Stats
 
