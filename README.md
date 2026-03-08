@@ -1,4 +1,4 @@
-                                                        ## Hi, I'm Ilayda Nur 👋
+Hi, I'm Ilayda Nur 👋
 I'm a **Software Engineer** focused on **Data & AI** and **Machine Learning**.  
 I enjoy building intelligent systems and turning data into meaningful solutions.
 
@@ -10,7 +10,7 @@ I enjoy building intelligent systems and turning data into meaningful solutions.
 
 ---
 
-##  Interests
+## ⚡ Interests
 
 I'm passionate about **Data Analysis** and **Machine Learning**, and I'm constantly working to improve myself in these areas. I enjoy extracting meaningful insights from data and building intelligent systems.
 
