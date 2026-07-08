@@ -6,7 +6,7 @@ I enjoy building intelligent systems and turning data into meaningful solutions.
 
 ## 🎓 Education
 
-**Fırat University** — Software Engineering, 3rd Year
+**Fırat University** — Software Engineering, 4th Year
 
 ---
 
