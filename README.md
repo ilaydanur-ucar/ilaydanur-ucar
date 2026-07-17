@@ -5,15 +5,12 @@ I enjoy building intelligent systems and turning data into meaningful solutions.
 ---
 
 ## 🎓 Education
-
 **Fırat University** — Software Engineering, 4th Year
 
 ---
 
 ## ⚡ Interests
-
-Data science and machine learning are my core focus, with growing specialization in MLOps. I'm learning how to take trained models from experimentation into production—understanding model serving, inference optimization, deployment pipelines, and infrastructure that keeps systems reliable at scale. I study distributed systems, containerization, DevOps practices, and how to monitor and maintain ML models in real environments. Currently exploring CPU-optimized inference services, CI/CD workflows, and the systems design principles that make data pipelines and model deployments robust. I'm interested in the full lifecycle: from data preparation and model training to operational maintenance and scalability.
----
+**Data science and machine learning** are my core focus, with growing specialization in MLOps. I'm learning how to take trained models from experimentation into production—understanding model serving, inference optimization, deployment pipelines, and infrastructure that keeps systems reliable at scale. I study distributed systems, containerization, DevOps practices, and how to monitor and maintain ML models in real environments. Currently exploring CPU-optimized inference services, CI/CD workflows, and the systems design principles that make data pipelines and model deployments robust. I'm interested in the full lifecycle: from data preparation and model training to operational maintenance and scalability.
 
 ## 🤝 Connect with me
 
