@@ -44,7 +44,7 @@ I enjoy building intelligent systems and turning data into meaningful solutions.
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Scalar-000000?style=for-the-badge&logoColor=white" height="40" />
 </div>
----
+
 
 
 ## 🔥 Streak Stats
