@@ -22,10 +22,6 @@ I enjoy building intelligent systems and turning data into meaningful solutions.
 
 ## ⚙️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
-## 🛠️ Languages and Tools
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="40" />
