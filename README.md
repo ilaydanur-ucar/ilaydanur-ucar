@@ -42,7 +42,11 @@ I enjoy building intelligent systems and turning data into meaningful solutions.
 </div>
 
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ilaydanur-ucar&theme=dark&hide_border=true)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ilaydanur-ucar&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydanur-ucar&layout=compact&theme=dark&hide_border=true)
 
 
 
