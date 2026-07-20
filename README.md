@@ -41,7 +41,7 @@ I enjoy building intelligent systems and turning data into meaningful solutions.
   <img src="https://img.shields.io/badge/Scalar-000000?style=for-the-badge&logoColor=white" height="45" />
 </div>
 
-
+![Streak](https://github-readme-streak-stats-eight.vercel.app?user=ilaydanur-ucar&theme=dark&hide_border=true)
 
 
 
