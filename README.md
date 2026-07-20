@@ -42,10 +42,7 @@ I enjoy building intelligent systems and turning data into meaningful solutions.
 </div>
 
 
-
-## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com/?user=ilaydanur-ucar&theme=dark&hide_border=true)
-
+![Streak](https://nirzak-streak-stats.vercel.app/?user=ilaydanur-ucar&theme=dark&hide_border=true)
 
 
 
